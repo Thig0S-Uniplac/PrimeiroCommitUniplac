@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", serif;
+  list-style: none;
+}
+:root {
+  --cor-primaria: rgba(223, 227, 5, 0.822); /* Azul */
+  --cor-secundaria: rgba(174, 177, 2, 0.722); /* Azul */
+  --cor-texto: #333333; /* Cinza escuro */
+}

@@ -1,0 +1,21 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0;
+  background-color: var(--cor-primaria);
+}
+header h2 {
+  font-size: 1.8rem;
+}
+header nav ul li a {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+header nav ul li a:hover {
+  cursor: pointer;
+  background-color: var(--cor-secundaria);
+  border-radius: 5px;
+}
